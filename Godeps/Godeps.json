@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/HenrikFricke/go-linkextractor",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "07b51741c1d6423d4a6abab1c49940ec09cb1aaf"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "07b51741c1d6423d4a6abab1c49940ec09cb1aaf"
+		},
+		{
+			"ImportPath": "gopkg.in/h2non/gock.v1",
+			"Comment": "v1.0.7",
+			"Rev": "26775f23aa9da4cbd47bc2600a57ac07bbf3bd20"
+		}
+	]
+}
